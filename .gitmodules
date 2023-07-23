@@ -1,3 +1,6 @@
 [submodule "IPL-Dashboard"]
 	path = IPL-Dashboard
 	url = https://github.com/pal-akash/IPL-Dashboard
+[submodule "IPL-Dashboard-Frontend"]
+	path = IPL-Dashboard-Frontend
+	url = https://github.com/pal-akash/IPL-Dashboard-Frontend
