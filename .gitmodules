@@ -1,0 +1,3 @@
+[submodule "IPL-Dashboard"]
+	path = IPL-Dashboard
+	url = https://github.com/pal-akash/IPL-Dashboard
